@@ -1,0 +1,48 @@
+#footer {
+  width: 100%;
+  padding-top: 30px;
+  color: white;
+  font-family: Gadugi;
+  font-size: small;
+  background-color: #1a1a1a;
+}
+
+#footer p {
+  color: lightgrey;
+  text-align: justify;
+}
+
+.register input{
+  border: none;
+  color: white;
+  border-radius: 0;
+  margin-bottom: 15px;
+  font-size: small;
+  background-color: #2C2C2C;
+}
+
+.register input:focus, 
+.register a:focus{
+  box-shadow: none;
+}
+
+.register a{
+  border-radius: 0;
+  width: 100%;
+  color: white;
+  font-size: small;
+  background-color: #db8f00;
+}
+
+.social{
+  background-color: #2C2C2C;
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+}
+
+.social i{
+  margin: 0 5px 0 5px;
+  font-size:20px;
+}
+

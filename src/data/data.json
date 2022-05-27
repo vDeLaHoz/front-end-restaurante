@@ -1,0 +1,52 @@
+{
+	"menus": [
+		{
+			"name": "Menú 1",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
+			"price": 35000,
+			"img": "http://localhost:3000/images/menu1.png"
+		},
+		{
+			"name": "Menú 2",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
+			"price": 35000,
+			"img": "http://localhost:3000/images/menu2.png"
+		},
+		{
+			"name": "Menú 3",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
+			"price": 40000,
+			"img": "http://localhost:3000/images/menu3.png"
+		},
+		{
+			"name": "Menú 4",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
+			"price": 20000,
+			"img": "http://localhost:3000/images/menu4.png"
+		},
+		{
+			"name": "Menú 5",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
+			"price": 35000,
+			"img": "http://localhost:3000/images/menu5.png"
+		},
+		{
+			"name": "Menú 6",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
+			"price": 30000,
+			"img": "http://localhost:3000/images/menu6.png"
+		},
+		{
+			"name": "Menú 7",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
+			"price": 40000,
+			"img": "http://localhost:3000/images/menu7.png"
+		},
+		{
+			"name": "Menú 8",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.",
+			"price": 35000,
+			"img": "http://localhost:3000/images/menu8.png"
+		}
+	]
+}

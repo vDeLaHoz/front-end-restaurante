@@ -1,0 +1,91 @@
+.navbar {
+  background-color: black;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+.nav-link {
+  color: #ffff !important;
+  font-family: Gadugi;
+  font-size: medium;
+  margin-right: 15px;
+  position: relative;
+}
+.nav-link::after {
+  content: "";
+  position: absolute;
+  height: 3px;
+  width: 0;
+  left: 0;
+  bottom: 3px;
+  transition: 0.3s;
+  background-color: #db8f00;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.navbar-toggler {
+  background-color: gray;
+}
+
+.navbar-toggler:focus {
+  color: #ffff;
+  outline: none !important;
+}
+
+.title-navbar {
+  background: linear-gradient(
+    135deg,
+    #fff783 0,
+    #ffdf67 25%,
+    #f9c346 50%,
+    #e8a722 75%,
+    #db8f00 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: Oleo;
+  font-size: 25px;
+  padding-left: 5px;
+  margin: 0;
+}
+
+.navbar-toggler-icon {
+  color: white;
+}
+
+.logo-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* User isLoggedIn */
+
+.user{
+  color: white;
+  text-decoration: none;
+  display: flex;
+  font-family: Gadugi;
+  font-size: medium;
+  align-items: center;
+  justify-content: center;
+}
+
+.user i{
+  margin: 0 5px 0 5px;
+  font-size:25px;
+}
+
+.user a{
+  color: white;
+  font-size: medium;
+  font-family: Gadugi;
+  text-decoration: none;
+}
+
+.user a:active{
+  background-color: transparent;
+}

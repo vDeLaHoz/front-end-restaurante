@@ -1,0 +1,9 @@
+@font-face {
+  font-family:'Oleo';
+  src: url('./font/OleoScriptSwashCaps-Regular.ttf');
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}

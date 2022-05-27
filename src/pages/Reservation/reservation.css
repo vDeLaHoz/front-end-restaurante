@@ -1,0 +1,70 @@
+
+/* Container reservation */
+
+.title-reservation{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-family: Oleo;
+}
+
+.title-reservation p{
+  width: 80vh;
+  font-size: small;
+  color: #727272;
+  font-family: Gadugi;
+}
+
+.title-reservation .sub{
+  width: 150px;
+  height: 2px;
+  background-color: #db8f00;
+}
+
+/* Form */
+
+.form{
+  display: flex;
+  justify-content: center;
+}
+
+.form .form-control{
+  border: none;
+  font-size: small;
+  font-family: Gadugi;
+  background-color: #e6e6e6;
+}
+
+.form input{
+  height: 40px;
+}
+
+.form .form-control:focus,
+.btn-reservation:focus{
+  box-shadow: 0 0 3px 2px #f8cb79a8;
+}
+
+.btn-reservation{
+  width: 20%;
+  height: 40px;
+  color: white;
+  font-size: small;
+  font-family: Gadugi;
+  background-color: #db8f00;
+}
+
+/* Reservations */
+
+.card-reservations{
+  height: 100%;
+  font-size: small;
+  text-align: justify;
+  border: #db8f00 1px solid;
+}
+
+.card-reservations .card-header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f7f0e5;
+}

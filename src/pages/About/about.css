@@ -1,0 +1,17 @@
+.title-about h1{
+  text-align: left;
+  font-family: Oleo;
+  padding: 0;
+}
+
+.title-about .sub{
+  width: 150px;
+  height: 2px;
+  background-color: #db8f00;
+}
+
+.info-about p{
+  color: #727272;
+  text-align: justify;
+  font-family: Gadugi;
+}

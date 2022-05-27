@@ -1,0 +1,65 @@
+
+/* Container menu */
+
+.title-menu{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-family: Oleo;
+}
+
+.title-menu p{
+  width: 80vh;
+  font-size: small;
+  color: #727272;
+  font-family: Gadugi;
+}
+
+.title-menu .sub{
+  width: 150px;
+  height: 2px;
+  background-color: #db8f00;
+}
+
+.explore-menu{
+  width: 12%;
+  height: 40px;
+  color: white;
+  font-size: small;
+  font-family: Gadugi;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #db8f00;
+}
+
+/* Menu */
+
+.card-menu{
+  font-size: small;
+  color: #727272;
+  text-align: justify;
+}
+
+.header-card{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.price-menu{
+  width: 30%;
+  color: white;
+  text-align: center;
+  background-color: #db8f00;
+}
+
+.order{
+  color: #db8f00;
+  background-color: #FEF4EE;
+}
+
+.order:focus,
+.explore-menu:focus{
+  box-shadow: 0 0 3px 2px #f8cb79a8;
+}
